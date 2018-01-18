@@ -1,2 +1,5 @@
 Hello, World!
-<@%include file = "/home.html" %>
+
+<body>
+<@%include file = "home.html" %>
+</body>
