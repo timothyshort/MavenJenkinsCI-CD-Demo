@@ -1,6 +1,8 @@
 Hello, World!
+
 <html>
 <body>
-<@%include file = "home.html" %>
+<h1>Welcome to Training!</h1>
+<@% include file = "home.html" %>
 </body>
 </html>
